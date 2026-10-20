@@ -1,0 +1,4 @@
+# Install the standalone Workflow browser view without changing Trajectory.
+- insert:
+    - id: ui-trajectory-workflow
+      name: 'dsh-trajectory-workflow'
